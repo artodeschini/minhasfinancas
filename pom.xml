@@ -14,9 +14,11 @@
 	<description>Projeto para gerenciamento de financas pessoais</description>
 	<properties>
 		<java.version>11</java.version>
+		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 	</properties>
 	<dependencies>
-		
+
 		<!-- nao coloco o version nem scope por ele vai pegar a versao apropriada pelo parent do spring boot -->
 		<dependency>
 			<groupId>org.projectlombok</groupId>

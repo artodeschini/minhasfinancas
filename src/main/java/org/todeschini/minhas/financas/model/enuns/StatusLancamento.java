@@ -1,4 +1,4 @@
-package org.todeschini.minhas.financas.model.entity;
+package org.todeschini.minhas.financas.model.enuns;
 
 public enum StatusLancamento {
 

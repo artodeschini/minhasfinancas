@@ -16,6 +16,8 @@ import javax.persistence.ManyToOne;
 import javax.persistence.Table;
 
 import org.springframework.data.jpa.convert.threeten.Jsr310JpaConverters;
+import org.todeschini.minhas.financas.model.enuns.StatusLancamento;
+import org.todeschini.minhas.financas.model.enuns.TipoLancamento;
 
 import lombok.Builder;
 import lombok.Data;
